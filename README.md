@@ -18,7 +18,7 @@ my goal of making this app is to practice how to fetch data from json file, and 
 
 pull the project:
 
-` $ git clone https://github.com/Bennygoat/RestaurantList(exampleApp)`
+` $ git clone https://github.com/Bennygoat/RestaurantList-exampleApp-.git`
 
 to the project directory:
 
